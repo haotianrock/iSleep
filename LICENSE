@@ -12,6 +12,12 @@ modification, are permitted provided that the following conditions are met:
 * Redistributions in binary form must reproduce the above copyright notice,
   this list of conditions and the following disclaimer in the documentation
   and/or other materials provided with the distribution.
+  
+* Citation to the iSleep paper - Tian Hao, Guoliang Xing, and Gang Zhou. 2013.
+iSleep: unobtrusive sleep quality monitoring using smartphones.
+In Proceedings of the 11th ACM Conference on Embedded Networked Sensor Systems
+(SenSys '13). ACM, New York, NY, USA, Article 4, 14 pages.
+DOI: https://doi.org/10.1145/2517351.2517359
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
